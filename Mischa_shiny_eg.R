@@ -1,4 +1,5 @@
 #SHINY
+# Mischa edits to create sliding bar
 library(shiny)
 library(plotly)
 
