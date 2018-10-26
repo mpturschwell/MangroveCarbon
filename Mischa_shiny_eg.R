@@ -1,5 +1,7 @@
 #SHINY
 # Mischa edits to create sliding bar
+
+# All content on single page and sliding bar included
 library(shiny)
 library(plotly)
 
