@@ -1,5 +1,4 @@
-
-# Mt Dick around 
+# MT Dick around 
 
 #' Simulate cumulative emissions 
 #'
