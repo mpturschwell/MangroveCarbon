@@ -1,3 +1,6 @@
+
+# Mt Dick around 
+
 #' Simulate cumulative emissions 
 #'
 #' @Usage emissions_model(tsteps, A1, d, r, C)
